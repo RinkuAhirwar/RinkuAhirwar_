@@ -1,0 +1,245 @@
+.navi
+{
+    position: fixed;
+    width: auto;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    background: #000000;
+}
+
+
+
+.logo
+{
+    position: absolute;
+width: 364px;
+height: 60px;
+left: 163px;
+top: 22px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 461;
+font-size: 44px;
+line-height: 53px;
+
+
+}
+.home_logo
+{
+    position: absolute;
+                    width: 97px;
+                    height: 38px;
+                    left: 701px;
+                    top: 40px;
+                    
+                    font-family: Inria Sans, sans-serif;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 27px;
+                    line-height: 32px; 
+                    color:white;
+}
+
+.experience_logo
+{
+    position: absolute;
+width: 129px;
+height: 28px;
+left: 798px;
+top: 40px;
+
+font-family: 'Inria Sans'   sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 32px;
+color:white;
+}
+
+.project_logo
+{
+    position: absolute;
+width: 96px;
+height: 28px;
+left: 959px;
+top: 40px;
+
+font-family: 'Inria Sans'   sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 32px;
+color:white;
+}
+
+.contact_logo
+{
+    position: absolute;
+width: 91px;
+height: 28px;
+left: 1153px;
+top: 39px;
+
+font-family: 'Inria Sans'   sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 32px;
+color:white;
+}
+
+.skills_logo
+{
+    position: absolute;
+width: 62px;
+height: 28px;
+left: 1076px;
+top: 38px;
+
+font-family: 'Inria Sans'  sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 32px;
+color:white;
+}
+
+.home
+{
+    
+display:block;
+padding-left: 163px;;
+padding-top: 40px;
+
+}
+
+.profile_photo
+{
+
+width: 524px;
+height: 644px;
+display: inline;
+
+}
+
+
+.home_text
+{
+    display:inline-block; position:absolute;
+    width: 580px;
+    height: 644px;
+
+}
+.name
+{
+    position: absolute;
+width: 544px;
+height: 206px;
+left: 100px;
+top: 160px;
+
+font-family: 'Outfit'   sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 110px;
+/* or 115% */
+
+
+color: #000000;
+}
+.content
+{
+    
+width: 100%;
+height: 185px;
+
+
+font-family: 'Roboto'   sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 20px;
+/* or 100% */
+
+text-transform: capitalize;
+
+color: #000000;
+}
+
+.home_linkedin
+{
+    position: relative;
+width: 40px;
+height: 40px;
+left: 632px;
+top: 0px;
+
+}
+
+.home_img
+{
+    position: absolute;
+    width: 524px;
+    height: 644px;
+}
+
+.home_text
+{
+    position: absolute;
+    width: 580px;
+    height: 644px;
+    
+  
+}
+
+.experience
+{
+    
+    width: auto;
+    height:auto;
+    background-color: #000000;
+    color:white;
+}
+
+.heading
+{   
+    text-align: center;
+    
+    
+    width: 100%;
+    height: 110px;
+    font-family: 'Outfit'   sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 110px;
+    color:#f6f6f6;
+    
+}
+
+.subheading
+{
+    
+    width: 100%;
+    height: 30px;
+    font-family: 'Outfit'   sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 20px;
+    
+    color:#f6f6f6;
+}
+
+.project
+{
+    
+    width: auto;
+    height:auto;
+    background-color: #ffffff;
+    color:rgb(0, 0, 0);
+}
